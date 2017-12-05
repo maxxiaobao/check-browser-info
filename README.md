@@ -1,12 +1,14 @@
 # check-browser-info
 check browser basic info.
 
-## BrowserInfo 
+## BrowserInfo {name; version; platform}
 
- info 
- name: Support mainstream browser ['Chrome', 'Safari', 'IE', 'Opera', 'Firefox', 'Edge', 'UC', 'Wechat', 'QQbroser']
- version: version detail (eg: '62.0.3202.94'), and support to test IE6, 7, 8, 9, 10, 11
- platforms: Most platforms are included ['Windows Phone', 'Windows', 'Android', 'Linux', 'UNIX', 'iphone', 'ipad', 'Mac']
+ ### name
+ Support mainstream browser `['Chrome', 'Safari', 'IE', 'Opera', 'Firefox', 'Edge', 'UC', 'Wechat', 'QQbroser']`
+ ### version
+ version detail (eg: `62.0.3202.94`), and support `IE6, 7, 8, 9, 10, 11`
+ ### platform
+ Most platforms are included `['Windows Phone', 'Windows', 'Android', 'Linux', 'UNIX', 'iphone', 'ipad', 'Mac']`
 
 ## Usage
 

@@ -1,0 +1,22 @@
+{
+  "name": "check-browser-info",
+  "version": "1.0.0",
+  "description": "check browser basic info.[name, version, platform]",
+  "main": "index.js",
+  "keywords": [
+    "browser","info","IE","browser version","browser name"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxxiaobao/check-browser-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxxiaobao/check-browser-info/issues"
+  },
+  "homepage": "https://github.com/maxxiaobao/check-browser-info#readme"
+}

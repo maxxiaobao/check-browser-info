@@ -26,4 +26,13 @@ var BrowserInfo = require('check-browser-info');
 BrowserInfo(); 
 // BrowserInfo {name: 'Chrome', version: '62.0.3202.94', platform: Mac }
 ```
+#### or
+
+```js
+
+import BrowserInfo from "check-browser-info";
+
+BrowserInfo();
+
+```
 

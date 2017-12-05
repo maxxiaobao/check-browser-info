@@ -54,8 +54,8 @@
   // matching platform rules
   var platforms = [
     {
-      regex: /windows Phone/,
-      matched: 'Android'
+      regex: /windows phone/,
+      matched: 'Windows Phone'
     },
     {
       regex: /win/,
